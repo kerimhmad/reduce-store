@@ -1,8 +1,10 @@
 {
-  "current": "1.0.0",
+  "news": "N/A",
+  
+  "version": "1.0.0",
   "required": ">=1.0.0",
 
   "autoUpdate": false,
 
-  "versions": {}
+  "blockedVersions": {}
 }
